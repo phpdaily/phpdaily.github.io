@@ -14,7 +14,7 @@ layout: default
     <table style="max-height: none;">
       <thead>
         <tr>
-          <th>PHP branch</th><>
+          <th>PHP branch</th>
           <th>Target version</th>
           <th>Docker images</th>
         </tr>
