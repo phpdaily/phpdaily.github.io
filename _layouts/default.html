@@ -1,8 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>PHP Daily - PHP development branches nightly build</title>
+    <title>{{ page.title }}</title>
+    <meta content="{{ site.title }}" property="og:site_name">
+    <meta name="description" content="{{ site.description }}">
+    <meta name="robots" content="index, follow"/>
+    <meta name="author" content="Jérémy DECOOL (@jdecool)"/>
+    <meta name="keywords" content="PHP,nightly build,docker">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:creator" content="@jdecool">
+    <meta name="twitter:title" content="{{ page.title | strip_html | xml_escape }}">
+    <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+    {% if page.excerpt %}<meta name="twitter:description" content="{{ page.excerpt | strip_html | xml_escape }}">{% endif %}
+    <meta content="{{ site.title }}" property="og:site_name">
+    <meta content="{{ page.title | strip_html | xml_escape }}" property="og:title">
+    <meta content="article" property="og:type">
+    {% if page.excerpt %}<meta content="{{ page.excerpt | strip_html | xml_escape }}" property="og:description">{% endif %}
+    <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+    {% if page.date %}
+    <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
+    <meta content="{{ site.url }}/a-propos.html" property="article:author">
+    {% endif %}
     <link rel="stylesheet" href="https://cdn.rawgit.com/Chalarangelo/mini.css/v3.0.1/dist/mini-default.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mini.css/3.0.1/mini-default.min.css">
     <style>

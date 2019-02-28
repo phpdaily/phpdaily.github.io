@@ -1,5 +1,6 @@
 ---
 layout: default
+title: PHP Daily - Blog
 ---
 
 {% for post in site.posts %}

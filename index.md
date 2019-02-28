@@ -1,5 +1,6 @@
 ---
 layout: default
+title: PHP Daily - PHP development branches nightly build
 ---
 
 <div id="tables" class=" fluid">
