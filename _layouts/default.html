@@ -1,10 +1,48 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>PHP Daily - PHP development branches nightly build</title>
+    <title>{{ page.title }}</title>
+    <meta content="{{ site.title }}" property="og:site_name">
+    <meta name="description" content="{{ site.description }}">
+    <meta name="robots" content="index, follow"/>
+    <meta name="author" content="Jérémy DECOOL (@jdecool)"/>
+    <meta name="keywords" content="PHP,nightly build,docker">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:creator" content="@jdecool">
+    <meta name="twitter:title" content="{{ page.title | strip_html | xml_escape }}">
+    <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+    {% if page.excerpt %}<meta name="twitter:description" content="{{ page.excerpt | strip_html | xml_escape }}">{% endif %}
+    <meta content="{{ site.title }}" property="og:site_name">
+    <meta content="{{ page.title | strip_html | xml_escape }}" property="og:title">
+    <meta content="article" property="og:type">
+    {% if page.excerpt %}<meta content="{{ page.excerpt | strip_html | xml_escape }}" property="og:description">{% endif %}
+    <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+    {% if page.date %}
+    <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
+    <meta content="{{ site.url }}/a-propos.html" property="article:author">
+    {% endif %}
+    <link rel="alternate" type="application/atom+xml" title="phpdaily feed" href="{{ site.url }}/feed.xml" />
     <link rel="stylesheet" href="https://cdn.rawgit.com/Chalarangelo/mini.css/v3.0.1/dist/mini-default.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mini.css/3.0.1/mini-default.min.css">
+    <link rel="apple-touch-icon" sizes="57x57" href="{{ site.url }}/img/favico/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="{{ site.url }}/img/favico/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="{{ site.url }}/img/favico/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="{{ site.url }}/img/favico/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="{{ site.url }}/img/favico/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="{{ site.url }}/img/favico/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="{{ site.url }}/img/favico/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="{{ site.url }}/img/favico/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ site.url }}/img/favico/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="{{ site.url }}/img/favico/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ site.url }}/img/favico/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="{{ site.url }}/img/favico/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ site.url }}/img/favico/favicon-16x16.png">
+    <link rel="manifest" href="{{ site.url }}/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="{{ site.url }}/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
     <style>
       body {
         width: 75%;
@@ -16,6 +54,12 @@
     </style>
   </head>
   <body>
+    <header class="sticky row">
+      <div class="col-sm-12">
+        <a href="/" class="button">Home</a>
+        <a href="/blog.html" class="button">Blog</a>
+      </div>
+    </header>
     <div id="root">
       <main class="col-sm-12" id="doc-content">
         {{ content }}

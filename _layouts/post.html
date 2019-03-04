@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+<div itemscope itemtype="http://schema.org/BlogPosting" class="row">
+  <div class="col-sm-12 col-md-12 col-lg-7 col-lg-offset-1">
+    <br/>
+    <h2 itemprop="headline">{{ page.title }}</h2>
+    <h4><small><span itemprop="datePublished">{{ page.date | date: "%-d %B %Y" }}</span> - <span itemprop="author">{{ page.author }}</span></small></h4>
+    <div itemprop="articleBody">{{ page.content}}</div>
+    <br/>
+  </div>
+</div>
