@@ -9,6 +9,8 @@ permalink: /blog/:year/:month/:day/:title.html
 twitter_username: phpdaily
 github_username: phpdaily
 
+excerpt_separator: <!--more-->
+
 markdown: kramdown
 theme: minima
 plugins:
