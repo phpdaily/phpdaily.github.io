@@ -88,21 +88,21 @@ title: PHP Daily - PHP development branches nightly build
         </tr>
         <tr>
           <td>7.1 (security support)</td>
-          <td>7.1.27</td>
+          <td>7.1.28</td>
           <td>
             <code>
               7.1-dev<br>
-              7.1.27-dev-apache-jessie<br>
-              7.1.27-dev-apache-stretch<br>
-              7.1.27-dev-cli-alpine<br>
-              7.1.27-dev-cli-jessie<br>
-              7.1.27-dev-cli-stretch<br>
-              7.1.27-dev-fpm-alpine<br>
-              7.1.27-dev-fpm-jessie<br>
-              7.1.27-dev-fpm-stretch<br>
-              7.1.27-dev-zts-alpine<br>
-              7.1.27-dev-zts-jessie<br>
-              7.1.27-dev-zts-stretch
+              7.1.28-dev-apache-jessie<br>
+              7.1.28-dev-apache-stretch<br>
+              7.1.28-dev-cli-alpine<br>
+              7.1.28-dev-cli-jessie<br>
+              7.1.28-dev-cli-stretch<br>
+              7.1.28-dev-fpm-alpine<br>
+              7.1.28-dev-fpm-jessie<br>
+              7.1.28-dev-fpm-stretch<br>
+              7.1.28-dev-zts-alpine<br>
+              7.1.28-dev-zts-jessie<br>
+              7.1.28-dev-zts-stretch
             </code>
           </td>
         </tr>
