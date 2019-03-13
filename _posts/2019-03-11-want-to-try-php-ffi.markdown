@@ -3,7 +3,7 @@ layout: post
 title: "Want to try PHP with Foreign Function Interface (FFI) ?"
 date: 2019-03-11 06:54:35 +0100
 author: Jérémy DECOOL
-categories: jekyll update
+categories: "7.4"
 ---
 
 The [_Foreign Function Interface_](https://wiki.php.net/rfc/ffi) (or FFI), allow PHP to call C functions and using C data types directly from the language. It's seems that you don't have to write a PHP extension in C, you can do it directly in your PHP code. PHP FFI is available as a [core extension](https://github.com/php/php-src/tree/master/ext/ffi) and it's not enabled by default.
