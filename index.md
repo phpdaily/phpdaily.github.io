@@ -56,53 +56,53 @@ title: PHP Daily - PHP development branches nightly build
         </tr>
         <tr>
           <td>7.3</td>
-          <td>7.3.4</td>
+          <td>7.3.5</td>
           <td>
             <code>
               phpdaily/php:7.3-dev<br>
-              phpdaily/php:7.3.4-dev-apache-stretch<br>
-              phpdaily/php:7.3.4-dev-cli-alpine<br>
-              phpdaily/php:7.3.4-dev-cli-stretch<br>
-              phpdaily/php:7.3.4-dev-fpm-alpine<br>
-              phpdaily/php:7.3.4-dev-fpm-stretch<br>
-              phpdaily/php:7.3.4-dev-zts-alpine<br>
-              phpdaily/php:7.3.4-dev-zts-stretch
+              phpdaily/php:7.3.5-dev-apache-stretch<br>
+              phpdaily/php:7.3.5-dev-cli-alpine<br>
+              phpdaily/php:7.3.5-dev-cli-stretch<br>
+              phpdaily/php:7.3.5-dev-fpm-alpine<br>
+              phpdaily/php:7.3.5-dev-fpm-stretch<br>
+              phpdaily/php:7.3.5-dev-zts-alpine<br>
+              phpdaily/php:7.3.5-dev-zts-stretch
             </code>
           </td>
         </tr>
         <tr>
           <td>7.2</td>
-          <td>7.2.17</td>
+          <td>7.2.18</td>
           <td>
             <code>
               7.2-dev<br>
-              7.2.17-dev-apache-stretch<br>
-              7.2.17-dev-cli-alpine<br>
-              7.2.17-dev-cli-stretch<br>
-              7.2.17-dev-fpm-alpine<br>
-              7.2.17-dev-fpm-stretch<br>
-              7.2.17-dev-zts-alpine<br>
-              7.2.17-dev-zts-stretch
+              7.2.18-dev-apache-stretch<br>
+              7.2.18-dev-cli-alpine<br>
+              7.2.18-dev-cli-stretch<br>
+              7.2.18-dev-fpm-alpine<br>
+              7.2.18-dev-fpm-stretch<br>
+              7.2.18-dev-zts-alpine<br>
+              7.2.18-dev-zts-stretch
             </code>
           </td>
         </tr>
         <tr>
           <td>7.1 (security support)</td>
-          <td>7.1.28</td>
+          <td>7.1.29</td>
           <td>
             <code>
               7.1-dev<br>
-              7.1.28-dev-apache-jessie<br>
-              7.1.28-dev-apache-stretch<br>
-              7.1.28-dev-cli-alpine<br>
-              7.1.28-dev-cli-jessie<br>
-              7.1.28-dev-cli-stretch<br>
-              7.1.28-dev-fpm-alpine<br>
-              7.1.28-dev-fpm-jessie<br>
-              7.1.28-dev-fpm-stretch<br>
-              7.1.28-dev-zts-alpine<br>
-              7.1.28-dev-zts-jessie<br>
-              7.1.28-dev-zts-stretch
+              7.1.29-dev-apache-jessie<br>
+              7.1.29-dev-apache-stretch<br>
+              7.1.29-dev-cli-alpine<br>
+              7.1.29-dev-cli-jessie<br>
+              7.1.29-dev-cli-stretch<br>
+              7.1.29-dev-fpm-alpine<br>
+              7.1.29-dev-fpm-jessie<br>
+              7.1.29-dev-fpm-stretch<br>
+              7.1.29-dev-zts-alpine<br>
+              7.1.29-dev-zts-jessie<br>
+              7.1.29-dev-zts-stretch
             </code>
           </td>
         </tr>
