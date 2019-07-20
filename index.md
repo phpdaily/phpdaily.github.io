@@ -56,33 +56,33 @@ title: PHP Daily - PHP development branches nightly build
         </tr>
         <tr>
           <td>7.3</td>
-          <td>7.3.7</td>
+          <td>7.3.8</td>
           <td>
             <code>
               phpdaily/php:7.3-dev<br>
-              phpdaily/php:7.3.7-dev-apache-stretch<br>
-              phpdaily/php:7.3.7-dev-cli-alpine<br>
-              phpdaily/php:7.3.7-dev-cli-stretch<br>
-              phpdaily/php:7.3.7-dev-fpm-alpine<br>
-              phpdaily/php:7.3.7-dev-fpm-stretch<br>
-              phpdaily/php:7.3.7-dev-zts-alpine<br>
-              phpdaily/php:7.3.7-dev-zts-stretch
+              phpdaily/php:7.3.8-dev-apache-stretch<br>
+              phpdaily/php:7.3.8-dev-cli-alpine<br>
+              phpdaily/php:7.3.8-dev-cli-stretch<br>
+              phpdaily/php:7.3.8-dev-fpm-alpine<br>
+              phpdaily/php:7.3.8-dev-fpm-stretch<br>
+              phpdaily/php:7.3.8-dev-zts-alpine<br>
+              phpdaily/php:7.3.8-dev-zts-stretch
             </code>
           </td>
         </tr>
         <tr>
           <td>7.2</td>
-          <td>7.2.20</td>
+          <td>7.2.21</td>
           <td>
             <code>
               7.2-dev<br>
-              7.2.20-dev-apache-stretch<br>
-              7.2.20-dev-cli-alpine<br>
-              7.2.20-dev-cli-stretch<br>
-              7.2.20-dev-fpm-alpine<br>
-              7.2.20-dev-fpm-stretch<br>
-              7.2.20-dev-zts-alpine<br>
-              7.2.20-dev-zts-stretch
+              7.2.21-dev-apache-stretch<br>
+              7.2.21-dev-cli-alpine<br>
+              7.2.21-dev-cli-stretch<br>
+              7.2.21-dev-fpm-alpine<br>
+              7.2.21-dev-fpm-stretch<br>
+              7.2.21-dev-zts-alpine<br>
+              7.2.21-dev-zts-stretch
             </code>
           </td>
         </tr>
