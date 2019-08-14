@@ -27,13 +27,20 @@ title: PHP Daily - PHP development branches nightly build
           <td>
             <code>
               phpdaily/php:8.0-dev<br>
-              phpdaily/php:8.0.0-dev-apache-stretch<br>
               phpdaily/php:8.0.0-dev-cli-alpine<br>
-              phpdaily/php:8.0.0-dev-cli-stretch<br>
               phpdaily/php:8.0.0-dev-fpm-alpine<br>
-              phpdaily/php:8.0.0-dev-fpm-stretch<br>
               phpdaily/php:8.0.0-dev-zts-alpine<br>
-              phpdaily/php:8.0.0-dev-zts-stretch
+              phpdaily/php:8.0.0-dev-cli-alpine3.10<br>
+              phpdaily/php:8.0.0-dev-fpm-alpine3.10<br>
+              phpdaily/php:8.0.0-dev-zts-alpine3.10<br>
+              phpdaily/php:8.0.0-dev-apache-stretch<br>
+              phpdaily/php:8.0.0-dev-cli-stretch<br>
+              phpdaily/php:8.0.0-dev-fpm-stretch<br>
+              phpdaily/php:8.0.0-dev-zts-stretch<br>
+              phpdaily/php:8.0.0-dev-apache-buster<br>
+              phpdaily/php:8.0.0-dev-cli-buster<br>
+              phpdaily/php:8.0.0-dev-fpm-buster<br>
+              phpdaily/php:8.0.0-dev-zts-buster
             </code>
           </td>
         </tr>
@@ -44,65 +51,102 @@ title: PHP Daily - PHP development branches nightly build
             <code>
               phpdaily/php:latest<br>
               phpdaily/php:7.4-dev<br>
-              phpdaily/php:7.4.0-dev-apache-stretch<br>
               phpdaily/php:7.4.0-dev-cli-alpine<br>
-              phpdaily/php:7.4.0-dev-cli-stretch<br>
               phpdaily/php:7.4.0-dev-fpm-alpine<br>
-              phpdaily/php:7.4.0-dev-fpm-stretch<br>
               phpdaily/php:7.4.0-dev-zts-alpine<br>
-              phpdaily/php:7.4.0-dev-zts-stretch
+              phpdaily/php:7.4.0-dev-cli-alpine3.10<br>
+              phpdaily/php:7.4.0-dev-fpm-alpine3.10<br>
+              phpdaily/php:7.4.0-dev-zts-alpine3.10<br>
+              phpdaily/php:7.4.0-dev-apache-stretch<br>
+              phpdaily/php:7.4.0-dev-cli-stretch<br>
+              phpdaily/php:7.4.0-dev-fpm-stretch<br>
+              phpdaily/php:7.4.0-dev-zts-stretch<br>
+              phpdaily/php:7.4.0-dev-apache-buster<br>
+              phpdaily/php:7.4.0-dev-cli-buster<br>
+              phpdaily/php:7.4.0-dev-fpm-buster<br>
+              phpdaily/php:7.4.0-dev-zts-buster
             </code>
           </td>
         </tr>
         <tr>
           <td>7.3</td>
-          <td>7.3.8</td>
+          <td>7.3.9</td>
           <td>
             <code>
               phpdaily/php:7.3-dev<br>
-              phpdaily/php:7.3.8-dev-apache-stretch<br>
-              phpdaily/php:7.3.8-dev-cli-alpine<br>
-              phpdaily/php:7.3.8-dev-cli-stretch<br>
-              phpdaily/php:7.3.8-dev-fpm-alpine<br>
-              phpdaily/php:7.3.8-dev-fpm-stretch<br>
-              phpdaily/php:7.3.8-dev-zts-alpine<br>
-              phpdaily/php:7.3.8-dev-zts-stretch
+              phpdaily/php:7.3.9-dev-cli-alpine<br>
+              phpdaily/php:7.3.9-dev-fpm-alpine<br>
+              phpdaily/php:7.3.9-dev-zts-alpine<br>
+              phpdaily/php:7.3.9-dev-cli-alpine3.8<br>
+              phpdaily/php:7.3.9-dev-fpm-alpine3.8<br>
+              phpdaily/php:7.3.9-dev-zts-alpine3.8<br>
+              phpdaily/php:7.3.9-dev-cli-alpine3.10<br>
+              phpdaily/php:7.3.9-dev-fpm-alpine3.10<br>
+              phpdaily/php:7.3.9-dev-zts-alpine3.10<br>
+              phpdaily/php:7.3.9-dev-apache-stretch<br>
+              phpdaily/php:7.3.9-dev-cli-stretch<br>
+              phpdaily/php:7.3.9-dev-fpm-stretch<br>
+              phpdaily/php:7.3.9-dev-zts-stretch<br>
+              phpdaily/php:7.3.9-dev-apache-buster<br>
+              phpdaily/php:7.3.9-dev-cli-buster<br>
+              phpdaily/php:7.3.9-dev-fpm-buster<br>
+              phpdaily/php:7.3.9-dev-zts-buster
             </code>
           </td>
         </tr>
         <tr>
           <td>7.2</td>
-          <td>7.2.21</td>
+          <td>7.2.22</td>
           <td>
             <code>
-              7.2-dev<br>
-              7.2.21-dev-apache-stretch<br>
-              7.2.21-dev-cli-alpine<br>
-              7.2.21-dev-cli-stretch<br>
-              7.2.21-dev-fpm-alpine<br>
-              7.2.21-dev-fpm-stretch<br>
-              7.2.21-dev-zts-alpine<br>
-              7.2.21-dev-zts-stretch
+              phpdaily/php:7.2-dev<br>
+              phpdaily/php:7.2.22-dev-cli-alpine<br>
+              phpdaily/php:7.2.22-dev-fpm-alpine<br>
+              phpdaily/php:7.2.22-dev-zts-alpine<br>
+              phpdaily/php:7.2.22-dev-cli-alpine3.8<br>
+              phpdaily/php:7.2.22-dev-fpm-alpine3.8<br>
+              phpdaily/php:7.2.22-dev-zts-alpine3.8<br>
+              phpdaily/php:7.2.22-dev-cli-alpine3.10<br>
+              phpdaily/php:7.2.22-dev-fpm-alpine3.10<br>
+              phpdaily/php:7.2.22-dev-zts-alpine3.10<br>
+              phpdaily/php:7.2.22-dev-apache-stretch<br>
+              phpdaily/php:7.2.22-dev-cli-stretch<br>
+              phpdaily/php:7.2.22-dev-fpm-stretch<br>
+              phpdaily/php:7.2.22-dev-zts-stretch<br>
+              phpdaily/php:7.2.22-dev-apache-buster<br>
+              phpdaily/php:7.2.22-dev-cli-buster<br>
+              phpdaily/php:7.2.22-dev-fpm-buster<br>
+              phpdaily/php:7.2.22-dev-zts-buster
             </code>
           </td>
         </tr>
         <tr>
           <td>7.1 (security support)</td>
-          <td>7.1.31</td>
+          <td>7.1.32</td>
           <td>
             <code>
-              7.1-dev<br>
-              7.1.31-dev-apache-jessie<br>
-              7.1.31-dev-apache-stretch<br>
-              7.1.31-dev-cli-alpine<br>
-              7.1.31-dev-cli-jessie<br>
-              7.1.31-dev-cli-stretch<br>
-              7.1.31-dev-fpm-alpine<br>
-              7.1.31-dev-fpm-jessie<br>
-              7.1.31-dev-fpm-stretch<br>
-              7.1.31-dev-zts-alpine<br>
-              7.1.31-dev-zts-jessie<br>
-              7.1.31-dev-zts-stretch
+              phpdilay/php:7.1-dev<br>
+              phpdilay/php:7.1.32-dev-cli-alpine3.8<br>
+              phpdilay/php:7.1.32-dev-fpm-alpine3.8<br>
+              phpdilay/php:7.1.32-dev-zts-alpine3.8<br>
+              phpdilay/php:7.1.32-dev-cli-alpine<br>
+              phpdilay/php:7.1.32-dev-fpm-alpine<br>
+              phpdilay/php:7.1.32-dev-zts-alpine<br>
+              phpdilay/php:7.1.32-dev-cli-alpine3.10<br>
+              phpdilay/php:7.1.32-dev-fpm-alpine3.10<br>
+              phpdilay/php:7.1.32-dev-zts-alpine3.10<br>
+              phpdilay/php:7.1.32-dev-apache-stretch<br>
+              phpdilay/php:7.1.32-dev-cli-stretch<br>
+              phpdilay/php:7.1.32-dev-fpm-stretch<br>
+              phpdilay/php:7.1.32-dev-zts-stretch<br>
+              phpdilay/php:7.1.32-dev-apache-jessie<br>
+              phpdilay/php:7.1.32-dev-cli-jessie<br>
+              phpdilay/php:7.1.32-dev-fpm-jessie<br>
+              phpdilay/php:7.1.32-dev-zts-jessie<br>
+              phpdilay/php:7.1.32-dev-apache-buster<br>
+              phpdilay/php:7.1.32-dev-cli-buster<br>
+              phpdilay/php:7.1.32-dev-fpm-buster<br>
+              phpdilay/php:7.1.32-dev-zts-buster
             </code>
           </td>
         </tr>
