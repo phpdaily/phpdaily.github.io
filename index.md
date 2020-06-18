@@ -7,7 +7,7 @@ title: PHP Daily - PHP development branches nightly build
   <h1 class="section double-padded">phpdaily Docker images</h1>
   <div class="section">
     <p>
-      This page lists the maintained versions of the 
+      This page lists the maintained versions of the
       <a href="https://hub.docker.com/r/phpdaily/php">Docker images</a>.
     </p>
   </div>
@@ -51,20 +51,20 @@ title: PHP Daily - PHP development branches nightly build
             <code>
               phpdaily/php:latest<br>
               phpdaily/php:7.4-dev<br>
-              phpdaily/php:7.4.0-dev-cli-alpine<br>
-              phpdaily/php:7.4.0-dev-fpm-alpine<br>
-              phpdaily/php:7.4.0-dev-zts-alpine<br>
-              phpdaily/php:7.4.0-dev-cli-alpine3.10<br>
-              phpdaily/php:7.4.0-dev-fpm-alpine3.10<br>
-              phpdaily/php:7.4.0-dev-zts-alpine3.10<br>
-              phpdaily/php:7.4.0-dev-apache-stretch<br>
-              phpdaily/php:7.4.0-dev-cli-stretch<br>
-              phpdaily/php:7.4.0-dev-fpm-stretch<br>
-              phpdaily/php:7.4.0-dev-zts-stretch<br>
-              phpdaily/php:7.4.0-dev-apache-buster<br>
-              phpdaily/php:7.4.0-dev-cli-buster<br>
-              phpdaily/php:7.4.0-dev-fpm-buster<br>
-              phpdaily/php:7.4.0-dev-zts-buster
+              phpdaily/php:7.4.8-dev-cli-alpine<br>
+              phpdaily/php:7.4.8-dev-fpm-alpine<br>
+              phpdaily/php:7.4.8-dev-zts-alpine<br>
+              phpdaily/php:7.4.8-dev-cli-alpine3.10<br>
+              phpdaily/php:7.4.8-dev-fpm-alpine3.10<br>
+              phpdaily/php:7.4.8-dev-zts-alpine3.10<br>
+              phpdaily/php:7.4.8-dev-apache-stretch<br>
+              phpdaily/php:7.4.8-dev-cli-stretch<br>
+              phpdaily/php:7.4.8-dev-fpm-stretch<br>
+              phpdaily/php:7.4.8-dev-zts-stretch<br>
+              phpdaily/php:7.4.8-dev-apache-buster<br>
+              phpdaily/php:7.4.8-dev-cli-buster<br>
+              phpdaily/php:7.4.8-dev-fpm-buster<br>
+              phpdaily/php:7.4.8-dev-zts-buster
             </code>
           </td>
         </tr>
@@ -74,23 +74,23 @@ title: PHP Daily - PHP development branches nightly build
           <td>
             <code>
               phpdaily/php:7.3-dev<br>
-              phpdaily/php:7.3.9-dev-cli-alpine<br>
-              phpdaily/php:7.3.9-dev-fpm-alpine<br>
-              phpdaily/php:7.3.9-dev-zts-alpine<br>
-              phpdaily/php:7.3.9-dev-cli-alpine3.8<br>
-              phpdaily/php:7.3.9-dev-fpm-alpine3.8<br>
-              phpdaily/php:7.3.9-dev-zts-alpine3.8<br>
-              phpdaily/php:7.3.9-dev-cli-alpine3.10<br>
-              phpdaily/php:7.3.9-dev-fpm-alpine3.10<br>
-              phpdaily/php:7.3.9-dev-zts-alpine3.10<br>
-              phpdaily/php:7.3.9-dev-apache-stretch<br>
-              phpdaily/php:7.3.9-dev-cli-stretch<br>
-              phpdaily/php:7.3.9-dev-fpm-stretch<br>
-              phpdaily/php:7.3.9-dev-zts-stretch<br>
-              phpdaily/php:7.3.9-dev-apache-buster<br>
-              phpdaily/php:7.3.9-dev-cli-buster<br>
-              phpdaily/php:7.3.9-dev-fpm-buster<br>
-              phpdaily/php:7.3.9-dev-zts-buster
+              phpdaily/php:7.3.20-dev-cli-alpine<br>
+              phpdaily/php:7.3.20-dev-fpm-alpine<br>
+              phpdaily/php:7.3.20-dev-zts-alpine<br>
+              phpdaily/php:7.3.20-dev-cli-alpine3.8<br>
+              phpdaily/php:7.3.20-dev-fpm-alpine3.8<br>
+              phpdaily/php:7.3.20-dev-zts-alpine3.8<br>
+              phpdaily/php:7.3.20-dev-cli-alpine3.10<br>
+              phpdaily/php:7.3.20-dev-fpm-alpine3.10<br>
+              phpdaily/php:7.3.20-dev-zts-alpine3.10<br>
+              phpdaily/php:7.3.20-dev-apache-stretch<br>
+              phpdaily/php:7.3.20-dev-cli-stretch<br>
+              phpdaily/php:7.3.20-dev-fpm-stretch<br>
+              phpdaily/php:7.3.20-dev-zts-stretch<br>
+              phpdaily/php:7.3.20-dev-apache-buster<br>
+              phpdaily/php:7.3.20-dev-cli-buster<br>
+              phpdaily/php:7.3.20-dev-fpm-buster<br>
+              phpdaily/php:7.3.20-dev-zts-buster
             </code>
           </td>
         </tr>
@@ -100,53 +100,23 @@ title: PHP Daily - PHP development branches nightly build
           <td>
             <code>
               phpdaily/php:7.2-dev<br>
-              phpdaily/php:7.2.22-dev-cli-alpine<br>
-              phpdaily/php:7.2.22-dev-fpm-alpine<br>
-              phpdaily/php:7.2.22-dev-zts-alpine<br>
-              phpdaily/php:7.2.22-dev-cli-alpine3.8<br>
-              phpdaily/php:7.2.22-dev-fpm-alpine3.8<br>
-              phpdaily/php:7.2.22-dev-zts-alpine3.8<br>
-              phpdaily/php:7.2.22-dev-cli-alpine3.10<br>
-              phpdaily/php:7.2.22-dev-fpm-alpine3.10<br>
-              phpdaily/php:7.2.22-dev-zts-alpine3.10<br>
-              phpdaily/php:7.2.22-dev-apache-stretch<br>
-              phpdaily/php:7.2.22-dev-cli-stretch<br>
-              phpdaily/php:7.2.22-dev-fpm-stretch<br>
-              phpdaily/php:7.2.22-dev-zts-stretch<br>
-              phpdaily/php:7.2.22-dev-apache-buster<br>
-              phpdaily/php:7.2.22-dev-cli-buster<br>
-              phpdaily/php:7.2.22-dev-fpm-buster<br>
-              phpdaily/php:7.2.22-dev-zts-buster
-            </code>
-          </td>
-        </tr>
-        <tr>
-          <td>7.1 (security support)</td>
-          <td>7.1.32</td>
-          <td>
-            <code>
-              phpdilay/php:7.1-dev<br>
-              phpdilay/php:7.1.32-dev-cli-alpine3.8<br>
-              phpdilay/php:7.1.32-dev-fpm-alpine3.8<br>
-              phpdilay/php:7.1.32-dev-zts-alpine3.8<br>
-              phpdilay/php:7.1.32-dev-cli-alpine<br>
-              phpdilay/php:7.1.32-dev-fpm-alpine<br>
-              phpdilay/php:7.1.32-dev-zts-alpine<br>
-              phpdilay/php:7.1.32-dev-cli-alpine3.10<br>
-              phpdilay/php:7.1.32-dev-fpm-alpine3.10<br>
-              phpdilay/php:7.1.32-dev-zts-alpine3.10<br>
-              phpdilay/php:7.1.32-dev-apache-stretch<br>
-              phpdilay/php:7.1.32-dev-cli-stretch<br>
-              phpdilay/php:7.1.32-dev-fpm-stretch<br>
-              phpdilay/php:7.1.32-dev-zts-stretch<br>
-              phpdilay/php:7.1.32-dev-apache-jessie<br>
-              phpdilay/php:7.1.32-dev-cli-jessie<br>
-              phpdilay/php:7.1.32-dev-fpm-jessie<br>
-              phpdilay/php:7.1.32-dev-zts-jessie<br>
-              phpdilay/php:7.1.32-dev-apache-buster<br>
-              phpdilay/php:7.1.32-dev-cli-buster<br>
-              phpdilay/php:7.1.32-dev-fpm-buster<br>
-              phpdilay/php:7.1.32-dev-zts-buster
+              phpdaily/php:7.2.32-dev-cli-alpine<br>
+              phpdaily/php:7.2.32-dev-fpm-alpine<br>
+              phpdaily/php:7.2.32-dev-zts-alpine<br>
+              phpdaily/php:7.2.32-dev-cli-alpine3.8<br>
+              phpdaily/php:7.2.32-dev-fpm-alpine3.8<br>
+              phpdaily/php:7.2.32-dev-zts-alpine3.8<br>
+              phpdaily/php:7.2.32-dev-cli-alpine3.10<br>
+              phpdaily/php:7.2.32-dev-fpm-alpine3.10<br>
+              phpdaily/php:7.2.32-dev-zts-alpine3.10<br>
+              phpdaily/php:7.2.32-dev-apache-stretch<br>
+              phpdaily/php:7.2.32-dev-cli-stretch<br>
+              phpdaily/php:7.2.32-dev-fpm-stretch<br>
+              phpdaily/php:7.2.32-dev-zts-stretch<br>
+              phpdaily/php:7.2.32-dev-apache-buster<br>
+              phpdaily/php:7.2.32-dev-cli-buster<br>
+              phpdaily/php:7.2.32-dev-fpm-buster<br>
+              phpdaily/php:7.2.32-dev-zts-buster
             </code>
           </td>
         </tr>
