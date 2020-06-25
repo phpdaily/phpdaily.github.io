@@ -46,7 +46,7 @@ title: PHP Daily - PHP development branches nightly build
         </tr>
         <tr>
           <td>7.4</td>
-          <td>7.4.0</td>
+          <td>7.4.8</td>
           <td>
             <code>
               phpdaily/php:latest<br>
@@ -70,7 +70,7 @@ title: PHP Daily - PHP development branches nightly build
         </tr>
         <tr>
           <td>7.3</td>
-          <td>7.3.9</td>
+          <td>7.3.20</td>
           <td>
             <code>
               phpdaily/php:7.3-dev<br>
@@ -96,7 +96,7 @@ title: PHP Daily - PHP development branches nightly build
         </tr>
         <tr>
           <td>7.2</td>
-          <td>7.2.22</td>
+          <td>7.2.32</td>
           <td>
             <code>
               phpdaily/php:7.2-dev<br>
