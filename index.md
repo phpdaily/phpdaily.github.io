@@ -38,6 +38,7 @@ title: PHP Daily - PHP development branches nightly build
           </td>
         </tr>
         <tr>
+          <td>8.0</td>
           <td>8.0.3</td>
           <td>
             <code>
