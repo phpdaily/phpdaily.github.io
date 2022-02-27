@@ -23,6 +23,26 @@ title: PHP Daily - PHP development branches nightly build
       <tbody>
         <tr>
           <td>master</td>
+          <td>8.2</td>
+          <td>
+            <code>
+              phpdaily/php:8.2-dev<br>
+              phpdaily/php:8.2.0-dev-cli-alpine3.12<br>
+              phpdaily/php:8.2.0-dev-fpm-alpine3.12<br>
+              phpdaily/php:8.2.0-dev-alpine3.13<br>
+              phpdaily/php:8.2.0-dev-cli-alpine3.13<br>
+              phpdaily/php:8.2.0-dev-fpm-alpine3.13<br>
+              phpdaily/php:8.2.0-dev-alpine3.14<br>
+              phpdaily/php:8.2.0-dev-cli-alpine3.14<br>
+              phpdaily/php:8.2.0-dev-fpm-alpine3.14<br>
+              phpdaily/php:8.2.0-dev-apache-buster<br>
+              phpdaily/php:8.2.0-dev-cli-buster<br>
+              phpdaily/php:8.2.0-dev-fpm-buster<br>
+              phpdaily/php:8.2.0-dev-zts-buster
+            </code>
+          </td>
+        </tr>
+        <tr>
           <td>8.1.0</td>
           <td>
             <code>
